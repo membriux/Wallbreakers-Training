@@ -9,7 +9,7 @@ Output: 1024.00000
 
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-
+        
         if not n:
             return 1
 
