@@ -1,21 +1,22 @@
 
 array1 = [
-'https://leetcode.com/problems/powx-n',
-'https://leetcode.com/problems/best-time-to-buy-and-sell-stock',
-'https://leetcode.com/problems/edit-distance',
-'https://leetcode.com/problems/house-robber-ii',
-'https://leetcode.com/problems/regular-expression-matching/'
+'https://leetcode.com/problems/top-k-frequent-elements',
+'https://leetcode.com/problems/merge-k-sorted-lists'
 ]
 
 array2 = [
-'https://leetcode.com/problems/best-time-to-buy-and-sell-stock',
-'https://leetcode.com/problems/edit-distance',
-'https://leetcode.com/problems/house-robber-ii',
-'https://leetcode.com/problems/regular-expression-matching/'
+'https://leetcode.com/problems/subsets',
+'https://leetcode.com/problems/permutations',
+'https://leetcode.com/problems/combinations',
+'https://leetcode.com/problems/generate-parentheses',
+'https://leetcode.com/problems/gray-code'
 ]
 
 array3 = [
-
+'https://leetcode.com/problems/combination-sum',
+'https://leetcode.com/problems/partition-equal-subset-sum',
+'https://leetcode.com/problems/partition-to-k-equal-sum-subsets',
+'https://leetcode.com/problems/sudoku-solver'
 ]
 
 def create_links(array: [str]) -> str:
